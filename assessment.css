@@ -44,6 +44,9 @@ blockquote{
   color: goldenrod;
 }
 
+#checkbox-grid{
+  list-style: none;
+}
 
 #teamRoster li img{
   visibility: hidden;
